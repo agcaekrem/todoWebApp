@@ -1,0 +1,38 @@
+<script src="webjars/jquery/1.11.1/jquery.min.js"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" type="text/css"">
+<script
+        src="webjars/bootstrap-datepicker/1.0.1/js/bootstrap-datepicker.js"></script>
+<script>
+    $('#targetDate').datepicker({
+        format : 'dd/mm/yyyy'
+    });
+</script>
+<script>
+    $('#startDate').datepicker({
+        format : 'dd/mm/yyyy'
+    });
+</script>
+
+
+<div class="footer">
+    <h5>
+        &copy;Created By Ekrem Agca
+    </h5>
+</div>
+
+<style>
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: black;
+        text-color : white;
+        color: white;
+        height: 50px;
+        text-align: center;
+    }
+</style>
+
+</body>
+</html>
