@@ -17,7 +17,6 @@ Project Requirements:
 Tools and technologies used:
 
 - IDE --> Intellij Idea
-- MySQL --> 8.0
 - Spring Boot 2.5.3
 - Spring Framework
 - Maven
@@ -26,6 +25,8 @@ Tools and technologies used:
 - Thymeleaf
 - Spring Security
 - Spring Mail Sender
+- MySQL --> 8.0
+
 
 -------------------------------------------------------------------------------
 
