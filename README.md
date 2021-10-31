@@ -2,6 +2,8 @@
 -------------------------------------------------------------------------------
 Project Requirements:
 ----
+- Authentication
+- Register
 - Get all the users 
 - Add a new user
 - Update an user
@@ -19,7 +21,7 @@ Tools and technologies used:
 - Spring Boot 2.5.3
 - Spring Framework
 - Maven
-- java 11
+- java 8+
 - Spring Data Jpa
 - Thymeleaf
 - Spring Security
